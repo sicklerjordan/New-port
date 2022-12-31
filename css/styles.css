@@ -4238,3 +4238,7 @@ img.u-pull-left {
         right : 6vw;
     }
 }
+.column.lg-6.md-12.about-info__pic-block {
+    position: relative;
+    overflow: hidden;
+}
